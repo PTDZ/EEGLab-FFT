@@ -7,9 +7,9 @@
 ***
 
 **FFT_Power_Calculation.m**
-- PSD calculation using Welsch method (can be changed to power calculation)
-- automatic calculation of powers for all files stored in ALLEEG structure
-- division into EEG bands and drawing of sample charts
+- PSD (Power Spectral Density)/ power calculation using Welsch method
+- Automatic calculation of power for multiple files stored in ALLEEG structure
+- Division into EEG bands and drawing of sample charts
 
 **Automatic_Individual_FFT_charts.m**
 - **Input:** previously calculated means with FFT_Power_Calculation.m + ALLEEG dataset
@@ -19,6 +19,6 @@
 
 **Plots_for_Clusters_Mean_FFT_Value.m**
 - **Input:** MATLAB table, sample: Mean_Sample_Data.mat
-- **Output:** sample FIG_BAR_Temporal right (TP-R).png
+- **Output:** sample FIG_BAR_Temporal-right-(TP-R).png
 
 
