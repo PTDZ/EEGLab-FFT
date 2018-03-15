@@ -2,9 +2,9 @@
 
 **NOTE: All scripts are created for a particular experiment, but can be extended later. These are work files which are, in most cases, working only for a specified datasets. More comments and further explanation will be given soon.**
 
-***
-
 - Comments inside the scripts are in polish for now
+
+***
 
 **FFT_Power_Calculation.m**
 - PSD calculation using Welsch method (can be changed to power calculation)
