@@ -11,11 +11,14 @@
 - Automatic calculation of power for multiple files stored in ALLEEG structure
 - Division into EEG bands and drawing of sample charts
 
+
 **Automatic_Individual_FFT_charts.m**
 - **Input:** previously calculated means with FFT_Power_Calculation.m + ALLEEG dataset
 
+
 **Output: Individual FFT chart for each participant**
 - **Sample:** FIG_FFT_Ind_Sample.png
+
 
 **Plots_for_Clusters_Mean_FFT_Value.m**
 - **Input:** MATLAB table, sample: Mean_Sample_Data.mat
